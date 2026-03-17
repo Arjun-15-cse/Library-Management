@@ -22,6 +22,22 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+1.use  case diagram:
+https://rural-magenta-vilghtsfol.edgeone.app/
 
+2.class diagram:
+https://personal-coral-wguhrdlepm.edgeone.app/
+
+3.sequential diagram:
+https://opposite-ivory-srwhzt8sjh.edgeone.app/
+
+4.activity diagram:
+https://fresh-lavender-mmzkj0wdlb.edgeone.app/
+
+5.package digram:
+https://hon-apricot-7zrusw7pvc.edgeone.app/
+
+6.communication diagram:
+https://sorry-gold-a7k3mtvy3c.edgeone.app/
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
